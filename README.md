@@ -1,4 +1,4 @@
-# Dicoding Submission - iTunes Search Web
+# Dicoding Submission - Enjoy Jakarta (Landing Page)
 
 ![Downloads](https://img.shields.io/github/downloads/dedysteady/Dicoding-Belajar-Dasar-Pemrograman-Web/total)
 ![HitCount](https://hits.dwyl.com/dedysteady/Dicoding-Belajar-Dasar-Pemrograman-Web.svg?style=flat&show=unique)
